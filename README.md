@@ -3,7 +3,7 @@
   <img src="https://img.icons8.com/color/96/000000/captcha.png" width="80"/>
   <h1>Captcha Bot 🤖🔒</h1>
   <p><b>Discord bot for secure and fun captcha verification</b></p>
-  <a href="https://discord.gg/CfmuRQnn"><img src="https://img.shields.io/discord/1141879934538577920?label=Join%20Discord&logo=discord&color=5865F2"/></a>
+  <a href="https://discord.gg/FCFa3XqUeK"><img src="https://img.shields.io/discord/1141879934538577920?label=Join%20Discord&logo=discord&color=5865F2"/></a>
   <br>
   <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python"/>
   <img src="https://img.shields.io/badge/License-MIT-green"/>
